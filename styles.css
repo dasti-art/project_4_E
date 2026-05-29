@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+header {
+  background-color: white;
+}
+img{
+  height:170px ;
+  width:170px ;
+  border: 10px solid white;
+}
+a{
+  border: 10px solid blue;
+  border-radius: 10px  ;
+  color: blue;
+}
+footer{
+   background-color: black;
+}
+p{
+  color: white;
+}
+body{
+  background-color: black;
+}
+li{
+  color: white;
+}
